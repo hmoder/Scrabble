@@ -1,0 +1,119 @@
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\cknud\Documents\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\cknud\Documents\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\cknud\Documents\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\cknud\Documents\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\04262020\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\4262020v3\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\cknud\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\04282020\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Old\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe.config
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\bin\Debug\Scrabble_Game.pdb
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csprojAssemblyReference.cache
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.g.cs
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\App.g.cs
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.cache
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game_MarkupCompile.lref
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\GameWindow.baml
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\MainWindow.baml
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.g.resources
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.Properties.Resources.resources
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.GenerateResource.cache
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.csproj.CoreCompileInputs.cache
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.exe
+C:\Users\walle\OneDrive\Documents\Previous Semesters\Spring 2020\C# pt 2\Scrabble\Scrabble_Game\Scrabble_Game\obj\Debug\Scrabble_Game.pdb

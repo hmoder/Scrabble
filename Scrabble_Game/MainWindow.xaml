@@ -1,0 +1,84 @@
+﻿<Window x:Class="Scrabble_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Scrabble_Game"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="676" Width="638">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/background.jpg"/>
+        </Grid.Background>
+        <Label x:Name="startLbl" Content="Start Game" HorizontalAlignment="Left" Margin="195,305,0,0" VerticalAlignment="Top" FontSize="60" FontFamily="Tw Cen MT Condensed Extra Bold" MouseEnter="StartLbl_MouseEnter" MouseLeave="StartLbl_MouseLeave" Background="#03FFFFFF" MouseDown="StartLbl_MouseDown">
+            <Label.Effect>
+                <DropShadowEffect Opacity="0.5" ShadowDepth="4"/>
+            </Label.Effect>
+        </Label>
+        <Label x:Name="aboutLbl" Content="About Scrabble" HorizontalAlignment="Left" Margin="228,431,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Sitka Small" Width="194" MouseEnter="AboutLbl_MouseEnter" MouseLeave="AboutLbl_MouseLeave" MouseDown="AboutLbl_MouseDown">
+            <Label.Effect>
+                <DropShadowEffect ShadowDepth="3" Opacity="0.5"/>
+            </Label.Effect>
+        </Label>
+        <Label x:Name="exitLbl" Content="Exit" HorizontalAlignment="Left" Margin="291,507,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Sitka Small" MouseEnter="ExitLbl_MouseEnter" MouseLeave="ExitLbl_MouseLeave" MouseDown="ExitLbl_MouseDown">
+            <Label.Effect>
+                <DropShadowEffect ShadowDepth="3" Opacity="0.5"/>
+            </Label.Effect>
+        </Label>
+        <Rectangle x:Name="focusTile1" HorizontalAlignment="Left" Height="18" Margin="166,333,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="3" Opacity="0.5"/>
+            </Rectangle.Effect>
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-25.385"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/tile.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="focusTile2" HorizontalAlignment="Left" Height="18" Margin="201,438,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="3" Opacity="0.5"/>
+            </Rectangle.Effect>
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-28.975"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/tile.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="focusTile3" HorizontalAlignment="Left" Height="18" Margin="265,515,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="3" Opacity="0.5"/>
+            </Rectangle.Effect>
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-33.565"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/tile.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <ComboBox x:Name="playerSelectComboBox" SelectedValuePath="Content" HorizontalAlignment="Left" Margin="170,320,0,0" VerticalAlignment="Top" SelectedIndex="0" Width="302" FontSize="24" SelectionChanged="PlayerSelectComboBox_SelectionChanged" Visibility="Hidden" Height="46">
+            <ComboBoxItem Content="Select Number of Players"></ComboBoxItem>
+            <ComboBoxItem Content="1 Player"></ComboBoxItem>
+            <ComboBoxItem Content="2 Players"></ComboBoxItem>
+            <ComboBoxItem Content="3 Players"></ComboBoxItem>
+            <ComboBoxItem Content="4 Players"></ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>
